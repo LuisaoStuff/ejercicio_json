@@ -1,11 +1,23 @@
-# ejercicio_json
+# Ejercio JSON
 
-# Lista los titulos de los juegos desarrollados en los años 80
+## Personajes Marvel
 
-# Cuenta el número de juegos recomendados para mayores de 17 años o adultos
+### 	Ejercicio 1
 
-# Filtra los juegos desarrollados por Atari Ink
+	Lista los nombres de todos los personajes
 
-# Pide una compañia por teclado, si existe muestra los años en los que desarrolló videojuegos y si no existe muestra un error.
+###     Ejercicio 2
 
-# Pide una cadena por teclado. Si hay un juego con ese nombre muestra todos los que tenga la saga (los títulos, edad recomendada e historia si tiene)
+	Pide el nombre de un personaje y cuenta todos los comics en los que aparece
+
+###     Ejercicio 3
+
+	Muestra los nombres de los personajes que sean villanos y el número de apariciones que tienen en los comics.
+
+###     Ejercicio 4
+
+	Muestra todos los eventos en un menú. Pide uno por teclado y muestra el personaje (o personajes) que estuvo en ese evento
+
+###     Ejercicio 5
+
+	Muestra una lista con todos los personajes y pide uno por teclado. Deberás mostrar los eventos en los que ha estado y los otros personajes con los que ha coincidido (nombre y su categoría heroe/villano)
