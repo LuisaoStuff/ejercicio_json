@@ -12,7 +12,7 @@
 
 ###     Ejercicio 3
 
-	Muestra los nombres de los personajes que sean villanos y el número de apariciones que tienen en los comics.
+	Imprime por pantalla un menú de todas las categorías de personajes. Pide una por teclado y devuelve los nombres de los personajes que sean de esa categoría y el número de apariciones que tienen en los comics.
 
 ###     Ejercicio 4
 
