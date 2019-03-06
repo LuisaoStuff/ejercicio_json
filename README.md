@@ -20,4 +20,4 @@
 
 ###     Ejercicio 5
 
-	Muestra una lista con todos los personajes y pide uno por teclado. Deberás mostrar miniatura, los eventos en los que ha estado y los otros personajes con los que ha coincidido (nombre y su categoría heroe/villano)
+	Muestra una lista con todos los personajes y pide uno por teclado. Deberás mostrar miniatura, los eventos en los que ha estado y los otros personajes con los que ha coincidido (nombre y su categoría heroe/villano/villano reformado)
